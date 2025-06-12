@@ -12,3 +12,4 @@ Webflyx is a virtual content service used in the Learn Git course on Boot.Dev ta
 - setting up your GitHub repo aka this project
 
 Through this course, I believe I have developed a solid understanding of the basics of working with Git repos and contributing to projects.
+I also learnt how to work with WSL and command line environments and use the CLI tool provided in the course to complete the assignments.
